@@ -41,7 +41,7 @@ MASTER-MD DEPLOY TEMPLATE
 
 <br>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2FMrMasterOfc%2FMASTER-MD"><img src="https://img.shields.io/badge/DEPLOY-BUTTON-black" alt="DEPLOY BUTTON" width="250"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/MrMasterOfc/MASTER-MD"><img src="https://img.shields.io/badge/DEPLOY-BUTTON-black" alt="DEPLOY BUTTON" width="250"></a>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
