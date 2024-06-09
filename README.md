@@ -10,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
-<a href="https://github.com/maduwa2006">
+<a href="https://github.com/MrMasterOfc">
     <img src="https://telegra.ph/file/74b612f51b7a5750191af.jpg" width="900px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -41,7 +41,7 @@ MASTER-MD DEPLOY TEMPLATE
 
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/maduwa2006/MASTER-MD"><img src="https://img.shields.io/badge/DEPLOY-BUTTON-black" alt="DEPLOY BUTTON" width="250"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/MrMasterOfc/MASTER-MD"><img src="https://img.shields.io/badge/DEPLOY-BUTTON-black" alt="DEPLOY BUTTON" width="250"></a>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
