@@ -3,7 +3,7 @@
   "description":"An easy and simple WhatsApp bot developed by Sahan Maduwantha",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/3b5e3a9b55b5ec0df4bf8.jpg",
-  "repository":"https://github.com/MrMasterOfc/MASTER-MD/main/",
+  "repository":"https://github.com/maduwa2006/MASTER-MD/",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"📌 Dont change ",
-      "value":"https://telegra.ph/file/74b612f51b7a5750191af.jpg",
+      "value":"https://telegra.ph/file/3b5e3a9b55b5ec0df4bf8.jpg",
       "required":false
        
      },
@@ -72,14 +72,14 @@
     "OWNER_NAME":
     {
     
-    "desc": "📌 Dont change (වෙනස් කරන්න එපා)",
+    "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required": false,
-    "value": "MASTER_MIND"
+    "value": "MASTER"
   },
     "OWNER_NUMBER":
   {
     
-    "desc": "📌 Dont change (වෙනස් කරන්න එපා)",
+    "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required":false,
     "value": "94720797915"
   },
@@ -96,7 +96,7 @@
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"⚖ ALWAYS ONLINE 1 /⚖ TYPING 2 /⚖ RECORDING AUDIO.... 3🌟 ඔයාට ඔන අංකය type කරන්න 🌟",
+    "description":"📌 ALWAYS ONLINE 1 /📌 TYPING 2 /📌 RECORDING AUDIO.... 3🌟 ඔයාට ඔන අංකය type කරන්න 🌟",
     "value":"",
     "required": false
   }  
